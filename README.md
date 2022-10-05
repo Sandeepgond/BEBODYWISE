@@ -11,10 +11,11 @@ Live project link::--> https://charming-cat-7913b2.netlify.app/
 <h3>This project was a collaborative project created with a team of 4 members within one week</h3>
 <h3>Team members includes:</h3>
 <ul>
+<li>Sandeep Gond</li>
 <li>Aniket Bansal</li>
 <li>Shailesh Sampat</li>
 <li>Shivam Srivastav</li>
-<li>Sandeep Gond</li>
+
 </ul>
 
 <h1>Tech stack used: </h1>
